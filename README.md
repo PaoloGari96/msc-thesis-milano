@@ -1,4 +1,4 @@
-# General Relativistic MHD Simulations of Binary Neutron Star Mergers
+# GRMHD Simulations of Binary Neutron Star Mergers
 
 Master's thesis — Corso di Laurea Magistrale in Fisica Teorica, Scuola di Scienze Matematiche, Fisiche e Naturali, Università degli Studi di Milano-Bicocca.
 
